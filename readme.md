@@ -31,3 +31,10 @@ Add the dev script  "dev": "tsc -b && node dist/index.js"
 ```sh
 npm run dev 
 ```
+
+
+
+```sh 
+run the prisma model after changes 
+npx prisma migrate dev
+```
