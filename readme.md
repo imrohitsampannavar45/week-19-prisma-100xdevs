@@ -38,3 +38,6 @@ npm run dev
 run the prisma model after changes 
 npx prisma migrate dev
 ```
+````sh
+npx prima generate 
+```
